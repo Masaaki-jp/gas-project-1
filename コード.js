@@ -1,7 +1,7 @@
 // --- 設定部分 ---
-const OPENWEATHER_API_KEY = 'bedf34d44f47652916c8687ea0b93385'; // あなたのOpenWeatherMap APIキー
-const LATITUDE = 35.717; // 東京都墨田区文花２丁目２の緯度 (概算値)
-const LONGITUDE = 139.816; // 東京都墨田区文花２丁目２の経度 (概算値)
+const OPENWEATHER_API_KEY = 'YOUR_API_KEY'
+const LATITUDE = 'YOUR_LATITUDE'
+const LONGITUDE = 'YOUR_LONGITUDE'
 const CALENDAR_ID = 'primary'; // イベントを追加したいGoogleカレンダーのID (通常は 'primary' で自分のメインカレンダー)
 
 // --- 気象条件の閾値設定 ---
